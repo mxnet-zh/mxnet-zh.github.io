@@ -1,1 +1,3 @@
-# mxnet-zh.github.io
+# Apache MXNet in Chinese
+
+Under construction。
